@@ -116,9 +116,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
 <br>
-<p align="center">
-<a href="https://github.com/c0mmu0vere">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=c0mmu0vere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c0mmu0vere&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="50%">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=c0mmu0vere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</td>
+<td width="50%">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c0mmu0vere&layout=compact&langs_count=8&theme=algolia"/>
+</td>
+</tr>
+</table>
