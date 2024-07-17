@@ -110,6 +110,26 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Building Database PostgreSQL</h3>
+<div align="center">
+<a href="https://github.com/c0mmu0vere/Building-Database-PostgreSQL" target="_blank"><img src="https://drive.google.com/uc?export=download&id=1Zql54FDHO1_516_7wKewj8kT3XQu-Ko1" width="400" alt="Proyecto Building Database PostgreSQL"></a>
+<p>
+<a href="https://github.com/c0mmu0vere/Building-Database-PostgreSQL" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-5e5e5e?style=for-the-badge&logo=github">
+</a>
+<img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-ffe15d?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+<p>Un pipeline para limpiar y modelar datos de archivos .csv para su posterior ingesta en PostgreSQL. 🐘</p>
+</div>
+</td>
+</tr>
+</table>
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
