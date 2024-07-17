@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/PYTHON-ffe15d?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/TWILIO-%23F22F46?style=for-the-badge&logo=twilio&logoColor=white">
 </p>
-<p>Un programa que capaz de enviarme el pronóstico del tiempo a mi celular de manera diaria. 🌤</p>
+<p>Un programa capaz de enviarme el pronóstico del tiempo a mi celular de manera diaria. 🌤</p>
 </div>
 </td>
 
