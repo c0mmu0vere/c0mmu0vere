@@ -129,6 +129,20 @@
 <p>Un pipeline para limpiar y modelar datos de archivos .csv para su posterior ingesta en PostgreSQL. 🐘</p>
 </div>
 </td>
+
+<td width="50%">
+<h3 align="center">Building Data Warehouse in PostgreSQL</h3>
+<div align="center">
+<a href="https://github.com/c0mmu0vere/Building-Datawarehouse-PostgreSQL" target="_blank"><img src="https://drive.google.com/uc?export=download&id=1v5j6HkTH-vH3rYPrAa3Z4MLUkR-y4pdj" width="400" alt="Building Data Warehouse in PostgreSQL"></a>
+<p>
+<a href="https://github.com/c0mmu0vere/Building-Datawarehouse-PostgreSQL" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-5e5e5e?style=for-the-badge&logo=github">
+</a>
+<img src="https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+<p>Un modelo dimensional para crear un Data Warehouse a partir de una Base de Datos OLTP PostgreSQL. 🐘</p>
+</div>
+</td>
 </tr>
 </table>
 
